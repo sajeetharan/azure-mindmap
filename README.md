@@ -8,6 +8,8 @@ Are you new to Azure? This repository comprise a list of comprehensive #Azure mi
 * The OpenID Connect (OIDC) Architecture Map 
 * Cloud-native Azure Application Architect Map
 * Azure Kubernetes Service (AKS) Architecture Map
+* Decision tree for Compute, Network, Storage
+
 
 # References
 
